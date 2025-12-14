@@ -25,7 +25,7 @@ The system dynamically injects database schema into LLM prompts, validates gener
 ##  System Architecture
 <img width="1391" height="757" alt="image" src="https://github.com/user-attachments/assets/472971b2-9bba-4742-a7b2-c0a7e3736544" />  
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **Language:** Python  
 - **Database:** SQLite  
